@@ -7,7 +7,9 @@ The process to run this project:
 go to the file in console
 
 mvn clean
+
 mvn package
+
 hadoop -dir /user/cloudera/Yelp/input/1
 hadoop -put Yelp_training_set_data.json /user/cloudera/Yelp/input/1
 hadoop -dir /user/cloudera/Yelp/output/1
