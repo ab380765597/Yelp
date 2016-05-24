@@ -6,7 +6,7 @@ https://www.kaggle.com/c/yelp-recruiting/data
 
 
 
-Project goal:
+Goal:
 Write Java MR program which work as ETL to process Yelp business data
 
 
